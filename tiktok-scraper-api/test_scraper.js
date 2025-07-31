@@ -1,7 +1,4 @@
-// test_scraper.js
 const { scrapeFirstProductFromCategory } = require('./src/scraper/productScraper');
-
-// Gunakan URL Kategori yang sudah kita temukan sebelumnya
 const TEST_CATEGORY_URL = 'https://www.tiktok.com/shop/c/eyewear/905352';
 
 async function main() {
