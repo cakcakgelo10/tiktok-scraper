@@ -1,0 +1,19 @@
+{
+  "data": {
+    "i18nData": {
+      "lng": "en"
+    }
+  },
+  "context": {
+    "request": {
+      "params": {},
+      "query": {},
+      "pathname": "/shop/pdp/product/1731234716556366642",
+      "host": "www.tiktok.com",
+      "url": "https://www.tiktok.com/shop/pdp/product/1731234716556366642"
+    },
+    "reporter": {}
+  },
+  "mode": "string",
+  "renderLevel": 2
+}
